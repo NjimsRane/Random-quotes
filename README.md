@@ -1,0 +1,3 @@
+## RANDOM QUOTES App
+***
+By pressing the button "NEXT QUOTE", will get random quotes stored localy...
